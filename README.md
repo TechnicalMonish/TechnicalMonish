@@ -1,28 +1,57 @@
-<h1 align="center">About me 👋</h1>
-<h3 align="center">Hello! I’m Monish, a passionate MERN developer dedicated to crafting seamless and engaging digital experiences. With a strong foundation in HTML, CSS, JavaScript, React JS and Tailwind CSS, I specialize in building dynamic web applications that are functional and responsive. Highly investing time on my problem solving skills via DSA(using java).</h3>
+<img src="https://komarev.com/ghpvc/?username=ayeujjawalsingh&label=Profile%20Visiters&color=0e75b6&style=flat" alt="ayeujjawalsingh" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth42d&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth42d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanth42d" alt="hemanth42d" /></a> </p>
+<h1 align="center"> Hey 👋🏻, I'm Ujjawal </br> 
+</h1>
+<p align="center">Software Developer Engineer</p>
 
-- 🌱 I’m currently learning **MERN**
+<p align="center">
+<a href="https://auth.geeksforgeeks.org/user/ayeujjawalsingh/practice" target="_blank"><img alt="" src="https://img.shields.io/badge/GeeksforGeeks-000?logo=GeeksforGeeks&logoColor=2FF200&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-DC007B?logo=instagram&logoColor=000000&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://leetcode.com/ayeujjawalsingh/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-- 👨‍💻 All of my projects are available at [https://mvhemanth.freewebhostmost.com/](https://mvhemanth.freewebhostmost.com/)
+I’m a Software Developer skilled in Java, Python, and backend frameworks like Spring Boot, Django, and Flask. I focus on designing scalable REST APIs and working with databases like PostgreSQL, MySQL, and MongoDB. Currently, I’m building innovative solutions at a fast-paced, product-based startup.
 
-- 📫 How to reach me **techmoni2629@gmail.com**
+Let’s connect! Reach me at ayeujjawalsingh@gmail.com.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mvhemanth42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mvhemanth42" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/m_v_hemanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m_v_hemanth" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hemanth42d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemanth42d" height="30" width="40" /></a>
-</p>
+## Tech Stack 💻
+#### Languages
+![Java](https://img.shields.io/badge/java-E4E4E4?style=for-the-badge&logo=Java&logoColor=0)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+#### Framework/Library
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
+![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/-Flask-E4E4E4?style=for-the-badge&logo=flask&logoColor=000000)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanth42d&show_icons=true&locale=en&layout=compact" alt="hemanth42d" /></p>
+#### Database/State
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth42d&show_icons=true&locale=en" alt="hemanth42d" /></p>
+#### Backend Language
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/-Flask-E4E4E4?style=for-the-badge&logo=flask&logoColor=000000)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth42d&" alt="hemanth42d" /></p>
+#### Web Hosting
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+<!-- 
+## Top Langauges 👩‍💻
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeujjawalsingh&hide=TeX&layout=compact) -->
+
+<!-- ## Thanks for Visiting my GitHub Profile! -->
+<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
+
+## Connect with me 🤝
+[![GitHub followers](https://img.shields.io/github/followers/ayeujjawalsingh?style=social)](https://www.github.com/ayeujjawalsingh) [![Linkedin Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeujjawalsingh/)](https://www.linkedin.com/in/ayeujjawalsingh/)[![Instagram Badge](https://img.shields.io/badge/-ayeujjawalsingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ayeujjawalsingh/)](https://www.instagram.com/ayeujjawalsingh/)[![Facebook Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ayeujjawalsingh)](https://www.facebook.com/ayeujjawalsingh)
