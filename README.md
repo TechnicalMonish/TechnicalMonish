@@ -1,9 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=ayeujjawalsingh&label=Profile%20Visiters&color=0e75b6&style=flat" alt="ayeujjawalsingh" />
+<img src="https://komarev.com/ghpvc/?username=TechnicalMonish&label=Profile%20Visiters&color=0e75b6&style=flat" alt="ayeujjawalsingh" />
 
 
-<h1 align="center"> Hey 👋🏻, I'm Ujjawal </br> 
+<h1 align="center"> Hey 👋🏻, I'm Monish! </br> 
 </h1>
-<p align="center">Software Developer Engineer</p>
+<p align="center"> Computer Science Engineer</p>
 
 <p align="center">
 <a href="https://auth.geeksforgeeks.org/user/ayeujjawalsingh/practice" target="_blank"><img alt="" src="https://img.shields.io/badge/GeeksforGeeks-000?logo=GeeksforGeeks&logoColor=2FF200&style=for-the-badge" style="vertical-align:center" /></a>
@@ -13,7 +13,7 @@
 
 I’m a Software Developer skilled in Java, Python, and backend frameworks like Spring Boot, Django, and Flask. I focus on designing scalable REST APIs and working with databases like PostgreSQL, MySQL, and MongoDB. Currently, I’m building innovative solutions at a fast-paced, product-based startup.
 
-Let’s connect! Reach me at ayeujjawalsingh@gmail.com.
+Let’s connect! Reach me at techmoni2629@gmail.com.
 
 ## Tech Stack 💻
 #### Languages
