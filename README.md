@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanth42d" alt="hemanth42d" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, DSA(Java)**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://mvhemanth.freewebhostmost.com/](https://mvhemanth.freewebhostmost.com/)
 
-- 📫 How to reach me **venkatahemanth42d@gmail.com**
+- 📫 How to reach me **techmoni2629@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
