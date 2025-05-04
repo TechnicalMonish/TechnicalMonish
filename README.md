@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋, I'm Monish Reddy</h1>
 <h3 align="center">a tech enthusiast!</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=200&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there,;I'm+Monish!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=200&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there👋,;I'm+Monish!)](https://git.io/typing-svg)
 
 
 
