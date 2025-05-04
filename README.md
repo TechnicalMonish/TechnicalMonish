@@ -1,15 +1,16 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](http://linktr.ee/technicalmonish)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=200&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there👋;I'm+Monish!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=200&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there+👋;I'm+Monish!)](https://git.io/typing-svg)
 
 <h3 align="center">a tech enthusiast!</h3>
 
 
 
 
+<img align="right" alt="Working on My Portfolio" width="180"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalmonish&label=Profile%20views&color=0e75b6&style=flat" alt="technicalmonish" /> </p>
 
