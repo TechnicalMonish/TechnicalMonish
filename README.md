@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalmonish&label=Profile%20views&color=0e75b6&style=flat" alt="technicalmonish" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **AWS Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [http://technicalmonish.notion.site/](http://technicalmonish.notion.site/)
 
