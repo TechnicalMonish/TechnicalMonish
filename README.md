@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [http://technicalmonish.notion.site/](http://technicalmonish.notion.site/)
+- 👨‍💻 My Projects are available at [http://technicalmonish.notion.site/](http://technicalmonish.notion.site/)
 
 - 💬 Ask me about **Technology**
 
