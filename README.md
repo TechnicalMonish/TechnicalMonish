@@ -49,9 +49,10 @@
 
 
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> LeetCode Stats:</h2>
-<img src="https://leetcard.jacoblin.cool/technicalmonish?theme=dark&font=Fira%20Code" align="center" >
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/technicalmonish?theme=dark&font=Fira%20Code" align="center"/>
+</div>
 
 
-
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=technicalmonish&label=Profile%20views&color=0e75b6&style=flat" alt="technicalmonish" /> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=technicalmonish&label=Profile%20views&color=0e75b6&style=flat" alt="technicalmonish" /> </p>
