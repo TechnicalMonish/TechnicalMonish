@@ -1,31 +1,38 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](http://linktr.ee/technicalmonish)
+<!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](http://linktr.ee/technicalmonish)-->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3500&&pause=200&background=F0FFFF&color=D40404&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there,;I'm+Monish+Reddy!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3200&&pause=200&background=F0FFFF&color=D40404&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there,;I'm+Technical+Monish!)](https://git.io/typing-svg)
 
 
 
 <img align="right" alt="Working on My Portfolio" width="180"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
 
+<div align= center>
+
+[![Twitter Badge](https://img.shields.io/badge/-@technicalmonish-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/technicalmonish)](https://twitter.com/technicalmonish) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/@technicalmonish-0e76a8)](https://www.linkedin.com/in/technicalmonish/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-monishreddy2629@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:monishreddy2629@gmail.com)
+
+</div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalmonish&label=Profile%20views&color=0e75b6&style=flat" alt="technicalmonish" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud Computing**
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi There!
 
-- 👨‍💻 My Projects are available at [http://technicalmonish.notion.site/](http://technicalmonish.notion.site/)
+- ☁️ I’m currently learning **AWS Cloud Computing**
 
-- 💬 Ask me about **Technology**
+- 👨🏻‍💻 Computer Science Sophomore
 
-- 📫 How to reach me **technicalmonish@icloud.com**
 
-<h3><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect With Me</h3>
-<p align="left">
-<a href="https://twitter.com/technicalmonish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technicalmonish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/technicalmonish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="technicalmonish" height="30" width="40" /></a>
-<a href="https://instagram.com/technicalmonish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technicalmonish" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@technicalmonish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@technicalmonish" height="30" width="40" /></a>
+
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tech Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,bun,vite,nodejs,nextjs,mongodb,postgres,git,&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif?cid=ecf05e47nfhfh6dzq7v2j8p8s0h31w7r4i6p7o7z8ixj0g7c&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,notion,cloudflare,figma,postman,vscode,vercel,netlify,docker&theme=dark" />
+</p>
