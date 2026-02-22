@@ -43,7 +43,9 @@
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=technicalmonish&theme=tokyonight"  />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=technicalmonish&theme=tokyonight"  />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=technicalmonish&theme=tokyonight"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=technicalmonish&theme=midnight-purple"  />
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=technicalmonish&theme=midnight-purple" align="center" />
+
 </div>
 
 
