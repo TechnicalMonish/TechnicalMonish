@@ -14,7 +14,6 @@
 
 </div> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalmonish&label=Profile%20views&color=0e75b6&style=flat" alt="technicalmonish" /> </p>
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi There!
 
@@ -36,3 +35,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,notion,cloudflare,figma,postman,vscode,vercel,netlify,docker&theme=dark" />
 </p>
+
+
+<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=technicalmonish&theme=tokyonight" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=technicalmonish&theme=tokyonight"  />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=technicalmonish&theme=tokyonight"  />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=technicalmonish&theme=tokyonight"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=technicalmonish&theme=midnight-purple" align="center" />
+</div>
+
+
+
+<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> LeetCode Stats:</h2>
+<img src="https://leetcard.jacoblin.cool/technicalmonish?theme=dark&font=Fira%20Code" align="center" >
+
+
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=technicalmonish&label=Profile%20views&color=0e75b6&style=flat" alt="technicalmonish" /> </p>
